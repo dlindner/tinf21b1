@@ -1,10 +1,6 @@
 package de.dhbw.tinf21b1;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.util.Properties;
 
 public class Main {
 	
